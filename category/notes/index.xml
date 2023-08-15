@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic | Mingrong Gong</title>
-    <link>https://gmr523.github.io/tag/academic/</link>
-      <atom:link href="https://gmr523.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>notes | Mingrong Gong</title>
+    <link>https://gmr523.github.io/category/notes/</link>
+      <atom:link href="https://gmr523.github.io/category/notes/index.xml" rel="self" type="application/rss+xml" />
+    <description>notes</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gmr523.github.io/media/icon_hu083d577e6fc165f181a2a5df6ae91a13_46485_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
-      <link>https://gmr523.github.io/tag/academic/</link>
+      <title>notes</title>
+      <link>https://gmr523.github.io/category/notes/</link>
     </image>
     
     <item>

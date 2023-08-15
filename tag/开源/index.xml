@@ -5,7 +5,7 @@
     <link>https://gmr523.github.io/tag/%E5%BC%80%E6%BA%90/</link>
       <atom:link href="https://gmr523.github.io/tag/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     <description>开源</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gmr523.github.io/media/icon_hu083d577e6fc165f181a2a5df6ae91a13_46485_512x512_fill_lanczos_center_3.png</url>
       <title>开源</title>
@@ -13,7 +13,27 @@
     </image>
     
     <item>
-      <title>What&#39;s is the dictionary learning</title>
+      <title>Useful command</title>
+      <link>https://gmr523.github.io/post/useful-command/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://gmr523.github.io/post/useful-command/</guid>
+      <description>&lt;!-- ```python
+import libr
+print(&#39;hello&#39;)
+``` --&gt;
+&lt;h3 id=&#34;vscode-remote-ssh-login-without-password&#34;&gt;Vscode remote SSH login without password&lt;/h3&gt;
+&lt;p&gt;# On the client side&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cat ~/.ssh/id_rsa.pub
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then copy the token&lt;/p&gt;
+&lt;p&gt;# On the server side&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;vi ~/.ssh/authorized_keys
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s the dictionary learning?</title>
       <link>https://gmr523.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://gmr523.github.io/post/getting-started/</guid>
