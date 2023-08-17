@@ -100,9 +100,14 @@ print(&#39;hello&#39;)
 &lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
 &lt;p&gt;Machine learning explainability and interpretability are both concepts that aim to shed light on how a machine learning model makes decisions, but they approach the goal from slightly different perspectives. Here&amp;rsquo;s a breakdown of the differences between the two:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interpretability pertains to the degree to which causal relationships can be discerned within a given system. Stated differently, it encapsulates the extent to which one can prognosticate outcomes in response to alterations in input variables or algorithmic parameters. It entails the capability to inspect an algorithm and readily comprehend its operational dynamics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Explainability denotes the magnitude to which the internal mechanics of a machine or deep learning system can be expounded using comprehensible human terminology. While the subtle divergence from interpretability might evade immediate notice, it is prudent to regard it in this manner: interpretability facilitates the discernment of mechanics without necessarily elucidating the underlying rationales, whereas explainability entails the capacity to elucidate the processes in a literal manner.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Think of it this way: say you’re doing a science experiment at school. The experiment might be interpretable insofar as you can see what you’re doing, but it is only really explainable once you dig into the chemistry behind what you can see happening.&lt;/p&gt;
 &lt;!-- - 👉 [**Create a new site**](https://wowchemy.com/templates/)
 - 📚 [**Personalize your site**](https://wowchemy.com/docs/)
 - 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
