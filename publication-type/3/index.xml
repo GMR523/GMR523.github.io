@@ -5,7 +5,7 @@
     <link>https://gmr523.github.io/publication-type/3/</link>
       <atom:link href="https://gmr523.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gmr523.github.io/media/icon_hu083d577e6fc165f181a2a5df6ae91a13_46485_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://gmr523.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://gmr523.github.io/publication/preprint/</guid>
+      <title>Reduce Overestimation by Kullback-Leibler Divergence Regularized</title>
+      <link>https://gmr523.github.io/publication/kdac/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://gmr523.github.io/publication/kdac/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
